@@ -1,1 +1,6 @@
 no we will learn about fetch and how to use it 
+no we understand the difference between 
+push 
+pull
+merge 
+fetch
